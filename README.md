@@ -4,7 +4,9 @@
 I'm currently in the middle of learning a few different languages,
  - Java
  - JavaScript
- - C# (C-Sharp)
+ - C#
  - HTML
  - CSS
  - Kotlin
+ - Python
+ - SQL
