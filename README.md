@@ -2,13 +2,8 @@
 ![NSHardy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nshardy&show_icons=true)
 
 I feel I have enough knowledge to contribute to projects with:
- - JavaScript
  - HTML
  - CSS
+ - JavaScript
  - Python
-
-I'm currently in the middle of learning a few different languages,
- - Java
- - C#
- - Kotlin
- - SQL
+ - Rust (in terms of [Bevy](https://bevy.org) projects for right now, I'm using Bevy to get a better grasp of Rust)
