@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noah Hardy</h1>
-<h3 align="center">A passionate programmer from the Washington</h3>
+<h3 align="center">A passionate programmer from Washington</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nshardy" alt="nshardy" /></a> </p>
 
 - 🌱 I’m currently learning **Rust**
